@@ -2,16 +2,19 @@ body {
       background-color: #EEE;
 }
 #intro {
-<p style="text-align:center">Center this text!</p>
-    text-decoration-color: white;
+text-align: center;
+text-decoration-color: white;
+font-family: arial;
       }
 
 #header {
-<p style="text-align:center">Center this text!</p>
-    text-decoration: navy;
+text-align: center;
+text-decoration: navy;
+font-family: arial;
   }
 
 #footer {
-<p style="text-align:center">Center this text!</p>
-  text-decoration: navy;
+text-align: center;
+text-decoration: navy;
+font-family: arial;
 }
