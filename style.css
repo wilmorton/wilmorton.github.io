@@ -4,6 +4,12 @@ body {
 
 h1 {
   font-family: arial;
-  font-style: oblique;
+  font-style: bold;
   font-size: 25px;
+}
+
+p {
+font-family: arial;
+font-style: oblique;
+font-size: 15px;
 }
