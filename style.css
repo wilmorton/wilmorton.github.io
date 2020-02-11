@@ -3,12 +3,15 @@ body {
 }
 #intro {
     text-align: center;
+    text-decoration-color: white;
       }
 
 #header {
     text-align: center;
+    text-decoration: navy;
   }
 
 #footer {
   text-align: center;
+  text-decoration: navy;
 }
