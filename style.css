@@ -1,18 +1,14 @@
-body (
+body {
+      background-color: #EEE;
+}
+#intro {
+    text-align: center;
+      }
 
-#intro (
-  text-align: center
-  )
+#header {
+    text-align: center;
+  }
 
-#container (
-
-  )
-
-#header (
-  text-align: center
-  )
-
-#footer (
-text-align: center
-
-  )
+#footer {
+  text-align: center;
+}
