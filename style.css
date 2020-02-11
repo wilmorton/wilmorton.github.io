@@ -1,15 +1,33 @@
 body {
-      background-color: #EEE;
+background-color: #fff;
 }
 
-h1 {
-  font-family: arial;
-  font-style: bold;
-  font-size: 25px;
+#container {
+text-align: justify;
 }
 
-p {
+#hi {
+text-align: center;
+
+color: white;
 font-family: arial;
-font-style: oblique;
-font-size: 15px;
-}
+      }
+
+#name {
+text-align: center;
+
+color: white;
+font-family: arial;
+    }
+
+#headers {
+text-align: center;
+colour: #blue;
+font-family: arial;
+        }
+
+#footer {
+text-align: center;
+colour: #blue;
+font-family: arial;
+        }
