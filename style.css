@@ -1,20 +1,9 @@
 body {
-      background-color: #EEE;
+      background-color: grey;
 }
-#intro {
-text-align: center;
-text-decoration-color: white;
-font-family: arial;
-      }
 
-#header {
-text-align: center;
-text-decoration: navy;
-font-family: arial;
-  }
-
-#footer {
-text-align: center;
-text-decoration: navy;
-font-family: arial;
+h1 {
+  font-family: arial;
+  font-style: oblique;
+  font-size: 25px;
 }
