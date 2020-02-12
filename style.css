@@ -3,31 +3,49 @@ background-color: #fff;
 }
 
 #container {
+width: auto;
+margin-left: auto;
+margin-right: auto;
 text-align: justify;
 }
 
 #hi {
+z-index: 1;
+position: absolute;
+top: 360px; left: 200px;
 text-align: center;
-
+font-size: 200%;
+font-style: italic;
 color: white;
-font-family: arial;
+font-family: Arial;
       }
 
 #name {
-text-align: center;
-
+z-index: 1;
+position: absolute;
+top: 400px; left: 200px;
+text-align: normal;
+font-size: 220%;
+font-style: bold;
 color: white;
-font-family: arial;
+font-family: 'Arial';
     }
+
+#toggle {
+text-align: center;
+color: #E9A192;
+font-family: Arial;
+
+}
 
 #headers {
 text-align: center;
-colour: #blue;
-font-family: arial;
+color: #E9A192;
+font-family: Arial;
         }
 
 #footer {
 text-align: center;
-colour: #blue;
-font-family: arial;
-        }
+color: #E9A192;
+font-family: Arial;
+    }
