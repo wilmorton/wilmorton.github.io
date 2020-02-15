@@ -1,51 +1,48 @@
 body {
-background-color: #fff;
+background-color: #F2CAC1;
 }
 
 #container {
 width: auto;
 margin-left: auto;
 margin-right: auto;
-text-align: justify;
+text-align: center;
+position: absolute;
+background-color: #fff
 }
 
-#hi {
+#header {
 z-index: 1;
 position: absolute;
-top: 360px; left: 200px;
+top: 130px;
+left: 100px;
+text-align: center;
+font-size: 600%;
+color: white;
+font-family: sans-serif;
+font-weight: 250;
+}
+
+#main {
+z-index: 1;
+position: absolute;
+top: 235px;
+left: 100px;
+text-align: center;
+font-size: 150%;
+color: white;
+font-family: sans-serif;
+font-weight: 100;
+}
+
+#nav {
+z-index: 1;
+position: absolute;
+top: 610px;
+left: 100px;
 text-align: center;
 font-size: 200%;
-font-style: italic;
 color: white;
-font-family: Arial;
-      }
-
-#name {
-z-index: 1;
-position: absolute;
-top: 400px; left: 200px;
-text-align: normal;
-font-size: 220%;
-font-style: bold;
-color: white;
-font-family: 'Arial';
-    }
-
-#toggle {
-text-align: center;
-color: #E9A192;
-font-family: Arial;
-
+font-family: sans-serif;
+font-weight: 150;
 }
-
-#headers {
-text-align: center;
-color: #E9A192;
-font-family: Arial;
-        }
-
-#footer {
-text-align: center;
-color: #E9A192;
-font-family: Arial;
-    }
